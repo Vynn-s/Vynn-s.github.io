@@ -1,0 +1,40 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+table {
+    width: 100%;
+}
+
+.gender {
+    background-color: #ff99c8;
+}
+
+.ethics {
+    background-color: #b9fbc0;
+}
+
+.IML {
+    background-color: #8eecf5;
+}
+
+.IMLec {
+    background-color: #9381ff;
+}
+
+.WPL {
+    background-color: #ffd670;
+}
+
+.WPLec {
+    background-color: #ff9770;
+}
+
+.EA {
+    background-color: #ff7070;
+}
+
+.IS {
+    background-color: #5465ff;
+}
